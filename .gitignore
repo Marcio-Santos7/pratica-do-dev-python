@@ -1,2 +1,3 @@
- C:\Users\marci\PycharmProjects\pratica-dev-python/.idea/
- C:\Users\marci\PycharmProjects\pratica-dev-python/main.py
+ *.idea
+.idea/
+ main.py
